@@ -20,11 +20,11 @@ If any of this is interesting to you let's have [a chat](https://infosec.exchang
 
 ### Have a great day ☺️
 
-<div class="footer">
+<div class="footer" style="align:center">
   <a href="https://infosec.exchange/@oliverwiegers">
-    <img style="margin-right: 50px; margin-left: 50px;" align="center" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />
+    <img style="margin-right: 50px; margin-left: 50px" align="center" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />
   </a>
   <a href="https://www.linkedin.com/in/oliver-wiegers-12057112a/">
-    <img style="margin-right: 50px; margin-left: 50px;" align="center" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img style="margin-right: 50px; margin-left: 50px" align="center" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
 </div>
