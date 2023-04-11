@@ -2,8 +2,8 @@
 
 <hr/>
 
-My name is Olli I'm \<Operations Engineering Buzzword Here\> Engineer.
-Professionally I spend my career in various positions from working in great
+My name is Olli I'm an \<Operations Buzzword Here\> Engineer.
+Professionally I spent my career in various positions from working in great
 teams to leading great teams.
 
 <hr/>
