@@ -1,0 +1,21 @@
+### Hey there! Nice to see you! ☺️
+
+<hr/>
+
+My name is Olli I'm <Operations Engineering Buzzword Here> Engineer.
+Professionally I spend my career in various positions from working in great
+teams to leading great teams.
+
+<hr/>
+
+I use GitHub mainly to give people access to the few actually useable ressources
+I created. The most complete and understandable would be:
+
+- [My .dotfiles](https://github.com/oliverwiegers/dotfiles)
+- [A docker based pentest lab](https://github.com/oliverwiegers/pentest_lab)
+
+<hr/>
+
+If any of this is interesting to you let's have [a chat](https://infosec.exchange/@oliverwiegers)
+
+### Have a great day ☺️
