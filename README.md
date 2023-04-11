@@ -19,3 +19,18 @@ I created. The most complete and understandable would be:
 If any of this is interesting to you let's have [a chat](https://infosec.exchange/@oliverwiegers)
 
 ### Have a great day ☺️
+
+<div class="footer">
+  <style>
+    .footer {
+        text-align: center;
+    }
+  </style>
+  
+  <a href="https://infosec.exchange/@oliverwiegers">
+    <img align="center" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/oliver-wiegers-12057112a/">
+    <img align="center" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+</div>
