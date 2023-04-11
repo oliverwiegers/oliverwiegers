@@ -8,7 +8,7 @@ teams to leading great teams.
 
 <hr/>
 
-I use GitHub mainly to give people access to the few actually useable ressources
+I use GitHub mainly to give people access to the few actually usable resources
 I created. The most complete and understandable would be:
 
 - [My .dotfiles](https://github.com/oliverwiegers/dotfiles)
