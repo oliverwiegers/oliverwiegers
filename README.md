@@ -1,4 +1,4 @@
-<div class="header" style="text-align:center">
+<div class="header" align="center">
   <p>Full time dad | Runner | Nerd | Operations Person</p>
 </div>
 
@@ -24,7 +24,7 @@ If any of this is interesting to you let's have [a chat](https://infosec.exchang
 
 ### Have a great day ☺️
 
-<div class="footer" style="text-align:center">
+<div class="footer" align="center">
   <a href="https://infosec.exchange/@oliverwiegers">
     <img style="margin-right: 50px; margin-left: 50px" align="center" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />
   </a>
